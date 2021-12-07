@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: android.arch.lifecycle:extensions:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Convertidora2-master/caches/transforms-3/bf30a176788a262fce427c1c9983f0d3/transformed/extensions-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Convertidora2-master/caches/transforms-3/bf30a176788a262fce427c1c9983f0d3/transformed/extensions-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../Convertidora2-master/caches/transforms-3/bf30a176788a262fce427c1c9983f0d3/transformed/extensions-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Convertidora2-master/caches/modules-2/files-2.1/android.arch.lifecycle/extensions/1.0.0/5ca5911be288c4ce6db9f57930b20677430c4345/extensions-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
